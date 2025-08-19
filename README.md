@@ -6,11 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+Neural networks are powerful machine learning models inspired by the human brain, capable of learning complex non-linear relationships in data. In regression problems, they are used to predict continuous values rather than discrete classes. The model consists of layers of interconnected nodes (neurons) where each layer applies transformations through weights, biases, and activation functions. By training on data, the network minimizes prediction error using optimization techniques such as gradient descent. This makes neural networks well-suited for regression tasks where traditional linear models may fail to capture underlying patterns.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1134" height="647" alt="image" src="https://github.com/user-attachments/assets/ab0eb8a0-33dd-4de1-a9b7-2d3da8ca5b9e" />
+
 
 ## DESIGN STEPS
 
